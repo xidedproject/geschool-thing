@@ -14,5 +14,9 @@ what it does to the app :
   3. put the MainActivity.smali and AndroidManifest , replace the original one
   4. compile the app and then sign the app
   5. try on phone .
+ 
+     [![Screenshot-20250312-235207-Geschool-Secure-Mode.jpg](https://i.postimg.cc/bNWbwYkM/Screenshot-20250312-235207-Geschool-Secure-Mode.jpg)](https://postimg.cc/Mv0XsSsb)
+
+     if you can screenshot on this page , then it works .
 
 :)
